@@ -12,7 +12,7 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 아래 내용들은 최대한 많이 공부해놓는것이 좋습니다 📝
 
 ## iOS
-- [Bounds 와 Frame 의 차이점을 설명하시오.]([https://github.com/kodaewon/iOSInterviewquestions/blob/master/iOS/Bounds%20%EC%99%80%20Frame%20%EC%9D%98%20%EC%B0%A8%EC%9D%B4%EC%A0%90%EC%9D%84%20%EC%84%A4%EB%AA%85%ED%95%98%EC%8B%9C%EC%98%A4.md](https://github.com/kodaewon/iOSInterviewquestions/blob/master/iOS/Bounds 와 Frame 의 차이점을 설명하시오.md))
+- Bounds 와 Frame 의 차이점을 설명하시오.
 - 실제 디바이스가 없을 경우 개발 환경에서 할 수 있는 것과 없는 것을 설명하시오.
 - 앱이 foreground에 있을 때와 background에 있을 때 어떤 제약사항이 있고, 상태 변화에 따라 다른 동작을 처리하기 위한 델리게이트 메서드들을 설명하시오.
 - scene delegate에 대해 설명하시오.
