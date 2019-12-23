@@ -6,11 +6,13 @@ foreground에 있을때 작업중이던게  background으로 이동시에 이어
 
 백그라운드 모드를 사용하기 위해서는 Capabilities에서 백그라운드 모드를 활성화 할 목록을 선택해 주면 된다.
 
-<img src="images/backgroundmodes.png">
+<img src="/images/backgroundmodes.png" width="150"/>
+
+
 
 [자료](https://medium.com/cashwalk/ios-background-mode-9bf921f1c55b)
 
-
+[자료](https://kka7.tistory.com/133)
 
 #### 상태 변화에 따른 델리게이트 메서드
 
